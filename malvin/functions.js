@@ -1,4 +1,3 @@
-//Malvin King 
 const axios = require('axios')
 
 const getBuffer = async(url, options) => {

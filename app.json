@@ -1,7 +1,7 @@
 {
   "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
   "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
-  "logo": "https://files.catbox.moe/bddvfr.jpg",
+  "logo": "https://files.catbox.moe/y65ffs.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/bddvfr.jpg"
+      "value": "https://files.catbox.moe/y65ffs.jpg"
     }, 
     
     "ALIVE_IMG": {
@@ -28,7 +28,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦MALVIN-XD✦ ACTIVE AND ALIVE⚡"
+      "value": "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD⚡"
     },
     
     "PREFIX": {
@@ -42,6 +42,12 @@
       "required": false,
       "value": "public"
       
+    },  
+    
+    "STICKER_NAME": {
+      "description": "type your sticker pack name.",
+      "required": false,
+      "value": "MALVIN-XD"
     },
     
     
@@ -73,6 +79,12 @@
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
+     }, 
+
+    "AUTO_STATUS_REACT": {
+      "description": "make it true for automatic status reaction or like.",
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -91,7 +103,8 @@
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "Malvin King"
-}, 
+      
+     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
@@ -143,7 +156,18 @@
       "required": false,
       "value": "false"
     },
-
+      "FAKE_TYPING": {
+      "description": "Make it true for fake typing.",
+      "required": false,
+      "value": "false"
+    },
+    
+    "CURRENT_STATU": {
+      "description": "Make it true for current status.",
+      "required": false,
+      "value": "false"
+    },
+    
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
@@ -161,6 +185,12 @@
       "description": "Make it true if you want custom reactions.",
       "required": false,
       "value": "false"
+      }, 
+    
+    "ANTI_DEL_PATH": {
+      "description": "change it to -same- if you want to resend deleted message in same chat",
+      "required": false,
+      "value": "log"
       
     }, 
     

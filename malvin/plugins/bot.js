@@ -86,10 +86,10 @@ async (conn, mek, m, { from, reply }) => {
         const formattedInfo = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐃 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
 
 
-*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑢𝑠𝑖𝑛𝑔 𝑴𝑨𝑳𝑽𝑰𝑵 𝑿𝑫🌹🫶* 
+*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑢𝑠𝑖𝑛𝑔 𝑴𝑨𝑳𝑽𝑰𝑵 𝑿𝑫 ᴠ2🌹🫶* 
 
 ╭───────────────━⊷
-║ 🚀 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐃 𝐈𝐍𝐅𝐎 🚀
+║ 🚀 ᴍᴀʟᴠɪɴ xᴅ ᴠ2 🚀
 ╰───────────────━⊷
 ╭───────────────━⊷
 ┊💡 *ɴᴀᴍᴇ:* *ᴍᴀʟᴠɪɴ xᴅ*
@@ -107,7 +107,7 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/bddvfr.jpg` },
+            image: { url: `https://files.catbox.moe/y65ffs.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                     mentionedJid: [m.sender],

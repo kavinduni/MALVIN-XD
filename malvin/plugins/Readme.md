@@ -1,1 +1,3 @@
-NEXUS TECH BOT
+*NEXUS TECH BOT*
+-------
+**MALVIN-XD V2**
