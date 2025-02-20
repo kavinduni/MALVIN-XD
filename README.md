@@ -1,28 +1,24 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
----  
-
-> **`Still Updating To` Version 2.0....**
----
+> **`Updated To` Version 2.0.0...**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗠𝗔𝗟𝗩𝗜𝗡+𝗫𝗗+𝗩2 ❤️+;𝗠𝗔𝗟𝗩𝗜𝗡-+𝗫𝗗-+𝗩2 🎉;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗥-𝗠𝗔𝗟𝗩𝗜𝗡 ✔️" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+MALVIN+XD+𝗩2 ❤️+;MALVIN-+XD-+𝗩2 🎉;CREATED+𝗕Y+MALVIN-KING ✔️" alt="Typing SVG" /></a>
   </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/y65ffs.jpg?"/>
+src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
 <p align="center"
   <a href="https://github.com/kingmalvn/MALVIN-XD">
-    <img src="https://komarev.com/ghpvc/?username=kingmalvn&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
-  </a>
+    
   
 </p> 
 
@@ -96,7 +92,9 @@ or
 
 **• 1.1 Now deploy.**
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD) 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗔𝗜𝗟𝗪𝗔𝗬+🛰️)](https://git.io/typing-svg)
@@ -192,7 +190,7 @@ jobs:
 
 
 <p align="center">
-   <a href="https://youtu.be/kHdmFBowDRI?si=tmBQB_ehvng6Cpqp"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtu.be/B5Ab_X9Lht0?si=RwYO2cK_P42Hkwrc"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -235,7 +233,7 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F29C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USING+MALVIN+XD" alt="Typing SVG" /></a>
 
 
-***`WARNING` : `𝘋𝘖𝘕'𝘛 𝘔𝘖𝘋𝘐𝘍𝘠 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 𝘍𝘐𝘙𝘚𝘛 𝘐𝘕𝘍𝘖𝘙𝘔 𝘛𝘏𝘌 𝘖𝘞𝘕𝘌𝘙`***
+***`WARNING` : `𝘋𝘖𝘕'𝘛 𝘔𝘖𝘋𝘐𝘍𝘠 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 𝘍𝘐𝘙𝘚𝘛 𝘐𝘕𝘍𝘖𝘙𝘔 ME`***
 
 <p align="center">
   <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ+ɪ+ᴡɪʟʟ+ɢɪᴠᴇ+ᴘʀᴏᴘᴇʀ+ᴄʀᴇᴅɪᴛ!!*" target="_blank">

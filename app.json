@@ -1,7 +1,7 @@
 {
   "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
   "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
-  "logo": "https://files.catbox.moe/y65ffs.jpg",
+  "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/y65ffs.jpg"
+      "value": "https://files.catbox.moe/gld2vo.jpg"
     }, 
     
     "ALIVE_IMG": {
@@ -96,7 +96,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
+      "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
     }, 
 
     "OWNER_NAME": {
@@ -116,7 +116,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦"
+      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦ v2"
 
       }, 
 
@@ -136,7 +136,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY ✦NEXUS TECH✦*"
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
     },
 
       "DELETE_LINKS": {
