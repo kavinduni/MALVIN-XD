@@ -245,7 +245,9 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 ## Feedback
 If you have any feedback, please reach out to us at nexusxd.bot@gmail.com
 
-### <br> No LOVE 💕 NO STRESS ☺️
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=No+Love+No+Stress+for+Now🤪" alt="Typing SVG" /></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
