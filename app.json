@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "MALVIN-XD~E8QjUAiJ#AreIgK-0Ja11c-lTHvVL_cfYaaU8tPq-aJyGb_f53Ok",
+      "description": "MALVIN-XD~gkoTCCrY#H4ydy6y_Fq7ZPxntQoenztZ6iFhNLW9Y4vcNwmz2XIs",
       "required": true,
       "value": ""
     },  
@@ -47,7 +47,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "✦MALVIN-XD✦"
+      "value": "✦Nimsath-Md✦"
     },
     
     
